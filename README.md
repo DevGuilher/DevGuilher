@@ -33,7 +33,7 @@ Me chamo Guilherme, tenho 22 anos e sou de Campo Mourão/PR.
 Desde pequeno, a tecnologia sempre me fascinou — e os jogos digitais foram minha primeira paixão nesse mundo. Hoje, estou mergulhado de vez na programação, usando minha criatividade (e uma boa dose de imaginação) pra transformar ideias malucas em projetos de verdade. Sempre em busca de aprender mais, criar coisas novas e me divertir no processo. Quer saber mais sobre mim? Vem comigo então!
 
 <p align="center">
-  <img src="https://tenor.com/view/cat-music-gif-25997581" width="350">
+  <img src="https://tenor.com/view/cat-music-gif-25997581.gif" width="350">
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
