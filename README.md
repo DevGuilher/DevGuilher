@@ -11,10 +11,10 @@
  
  <h1 align="left">Guilherme Oliveira</h1>
  <a href="https://www.instagram.com/ohguilher/">
-    <img align="left" width="80px" src="https://ibb.co/8D65wS1D" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="80px" src="https://cdn.discordapp.com/attachments/1358089165358760036/1358943588263661638/1.png?ex=67f5ae57&is=67f45cd7&hm=312704e4cc7cc75ef71fe97af80a548962d9591063a5005166f9cf5e265cdbdc&" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://www.linkedin.com/in/ohguilher/">
-    <img width="80px" src="https://ibb.co/xSRRH1k3" alt="linkedin" style="vertical-align:top;">
+    <img width="80px" src="https://cdn.discordapp.com/attachments/1358089165358760036/1358943588569977002/3.png?ex=67f5ae57&is=67f45cd7&hm=9481ed93ca3b25f3e65ba02a24636a1b39e97249a48bc004d0dfc8f144a8907e&" alt="linkedin" style="vertical-align:top;">
   </a>
 
 </div>
