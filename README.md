@@ -11,13 +11,10 @@
  
  <h1 align="left">Guilherme Oliveira</h1>
  <a href="https://www.instagram.com/ohguilher/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="80px" src="https://ibb.co/8D65wS1D" alt="instagram" style="vertical-align:top;">
   </a> 
-  <a href="https://twitter.com/jeniblo_dev">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
-  </a>
-  <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  <a href="https://www.linkedin.com/in/ohguilher/">
+    <img width="80px" src="https://ibb.co/xSRRH1k3" alt="linkedin" style="vertical-align:top;">
   </a>
 
 </div>
