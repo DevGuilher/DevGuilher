@@ -59,7 +59,7 @@ Desde pequeno, a tecnologia sempre me fascinou — e os jogos digitais foram min
 
 </br>
 
-Você pode falar comigo pelo [Instagram](https://www.instagram.com/ohguilher/), e conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. ☕
+☕ Você pode falar comigo pelo [Instagram](https://www.instagram.com/ohguilher/), e conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
 
 </br>
 
