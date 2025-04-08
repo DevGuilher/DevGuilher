@@ -11,10 +11,10 @@
  
  <h1 align="left">Guilherme Oliveira</h1>
  <a href="https://www.instagram.com/ohguilher/">
-    <img align="left" width="80px" src="https://cdn.discordapp.com/attachments/1358089165358760036/1358950884372910180/1.png?ex=67f5b522&is=67f463a2&hm=f8f645a5f096419ad7005aa56f8f894a00d99d2ecb8856984215562fbac9b8c6&" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="80px" src="https://cdn.discordapp.com/attachments/1358089165358760036/1358956086627139755/1.png?ex=67f5b9fb&is=67f4687b&hm=73535dcfe035383d8b2f0ec7842d2d5240fe0b4159b07ce14c6d22ff7c9decd6&" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://www.linkedin.com/in/ohguilher/">
-    <img width="80px" src="https://cdn.discordapp.com/attachments/1358089165358760036/1358950884775690512/2.png?ex=67f5b523&is=67f463a3&hm=c23d0ae8cc0ce2a8b19a034b93b737115e7c8554a79a888dbc75d837cd562730&" alt="linkedin" style="vertical-align:top;">
+    <img width="80px" src="https://cdn.discordapp.com/attachments/1358089165358760036/1358956087017082990/2.png?ex=67f5b9fb&is=67f4687b&hm=697226a1cf5143ca8422abec836a0e5f194f9150a2331d0daa9bab8b9731390d&" alt="linkedin" style="vertical-align:top;">
   </a>
 
 </div>
