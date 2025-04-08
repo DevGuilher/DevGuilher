@@ -19,9 +19,6 @@
 
 </div>
 
-
-
-
 </br>
 </br>
 
@@ -31,8 +28,6 @@ Me chamo Guilherme, tenho 22 anos e sou de Campo Mourão/PR.
 
 Desde pequeno, a tecnologia sempre me fascinou — e os jogos digitais foram minha primeira paixão nesse mundo. Hoje, estou mergulhado de vez na programação, usando minha criatividade (e uma boa dose de imaginação) pra transformar ideias malucas em projetos de verdade. Sempre em busca de aprender mais, criar coisas novas e me divertir no processo. Quer saber mais sobre mim? Vem comigo então!
 
-
-
 ### 🖥️ Tecnologias e Ferramentas: 
 <img width="200px" align="right" src="https://i.ibb.co/n3JFjSt/jeni02.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
@@ -40,7 +35,6 @@ Desde pequeno, a tecnologia sempre me fascinou — e os jogos digitais foram min
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-
 
 </br>
 </br>
@@ -52,8 +46,6 @@ Desde pequeno, a tecnologia sempre me fascinou — e os jogos digitais foram min
  <p align="left">🎮 Sou um bom amante de jogos, e sempre estou me enfiando onde posso desfrutar de um belo e imersivo Roleplay, ou RPG de Mesa. Procuro aproveitar meu tempo livre para curtir alguma música, livro ou anime que me chame a atenção e desperte minha criatividade.</p>
 </div>
 
-
-
 </br>
 
 ☕ Você pode falar comigo pelo [Instagram](https://www.instagram.com/ohguilher/), e conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
@@ -63,3 +55,9 @@ Desde pequeno, a tecnologia sempre me fascinou — e os jogos digitais foram min
 <a href="https://www.instagram.com/ohguilher/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ohguilher/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "ohguilherdev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<div>
+<a href="https://github.com/DevGuilher">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
