@@ -29,7 +29,7 @@ Me chamo Guilherme, tenho 22 anos e sou de Campo Mourão/PR.
 Desde pequeno, a tecnologia sempre me fascinou — e os jogos digitais foram minha primeira paixão nesse mundo. Hoje, estou mergulhado de vez na programação, usando minha criatividade (e uma boa dose de imaginação) pra transformar ideias malucas em projetos de verdade. Sempre em busca de aprender mais, criar coisas novas e me divertir no processo. Quer saber mais sobre mim? Vem comigo então!
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="200px" align="right" src="https://i.ibb.co/n3JFjSt/jeni02.png">
+<img width="200px" align="right" src="">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
