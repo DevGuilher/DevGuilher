@@ -1,4 +1,4 @@
-<img align="right" width="215px" style="margin-top:-20px" src="https://cdn.discordapp.com/attachments/1200946048034672670/1360021436692959232/Design_sem_nome_2.png?ex=67f99a2a&is=67f848aa&hm=9e4594bb85c224ade25ad7dff12a18456854fdb3575b75eebc8f0a1ea39e1a79&">
+<img align="right" width="212px" style="margin-top:-20px" src="https://cdn.discordapp.com/attachments/1200946048034672670/1360021436692959232/Design_sem_nome_2.png?ex=67f99a2a&is=67f848aa&hm=9e4594bb85c224ade25ad7dff12a18456854fdb3575b75eebc8f0a1ea39e1a79&">
 </br>
 </br>
 </br>
