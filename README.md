@@ -28,7 +28,7 @@ Me chamo Guilherme, tenho 22 anos e sou de Campo Mourão/PR.
 
 Desde pequeno, a tecnologia sempre me fascinou — e os jogos digitais foram minha primeira paixão nesse mundo. Hoje, estou mergulhado de vez na programação, usando minha criatividade (e uma boa dose de imaginação) pra transformar ideias malucas em projetos de verdade. Sempre em busca de aprender mais, criar coisas novas e me divertir no processo. Quer saber mais sobre mim? Vem comigo então!
 
-### 🖥️ Tecnologias e Ferramentas: 
+### 🖥️ Tecnologias e Ferramentas:
 <img width="200px" align="right" src="https://cdn.discordapp.com/attachments/1358089165358760036/1359709738111209633/Design_sem_nome_1.png?ex=67f877df&is=67f7265f&hm=e730bf354973b7bafb37495e36ebe022dd95cc9a540fa3d8de200e19fc20bb49&">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
@@ -41,7 +41,7 @@ Desde pequeno, a tecnologia sempre me fascinou — e os jogos digitais foram min
 </br>
 </br>
 
-### Sobre mim:
+### 📜 Sobre mim:
 
 <div display="inline-block">
  <p align="left">💼 Trabalho na <a href="https://www.coamo.com.br">Coamo Agroindustrial Cooperativa</a> com Refino de Óleos e Produção de Gorduras;</p>
