@@ -24,7 +24,7 @@
 
 ## E aí! 
 
-Me chamo Guilherme, tenho 22 anos e sou do Paraná - Brasil.
+Me chamo Guilherme, tenho 22 anos e sou do Paraná — Brasil.
 
 Desde pequeno, a tecnologia sempre me fascinou — e os jogos digitais foram minha primeira paixão nesse mundo. Hoje, estou mergulhado de vez na programação, usando minha criatividade (e uma boa dose de imaginação) pra transformar ideias malucas em projetos de verdade. Sempre em busca de aprender mais, criar coisas novas e me divertir no processo. Quer saber mais sobre mim? Vem comigo então!
 
