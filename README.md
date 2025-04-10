@@ -41,7 +41,7 @@ Desde pequeno, a tecnologia sempre me fascinou — e os jogos digitais foram min
 </br>
 </br>
 <div display="inline-block">
- <p align="left">💼 Atualmente sou Ajudante de Refinaria de Óleo e Produção de Gorduras na <a href="https://www.coamo.com.br">Coamo Agroindustrial Cooperativa</a>;</p>
+ <p align="left">💼 Trabalho na <a href="https://www.coamo.com.br">Coamo Agroindustrial Cooperativa</a> com Refino de Óleos e Produção de Gorduras;</p>
  <p align="left">💻 Estou me formando em Gestão de Tecnologia da Informação, e posteriormente, pretendo cursar Web Design para me aprofundar mais no universo do Front-end. E claro, reservando um grande espaço para o desenvolvimento no Back-end;</p>
  <p align="left">📚 Tenho realizado projetos pessoais e estudado com HTML, CSS e JS, me preparando para alavancar meus conhecimentos em outras tecnologias como TypeScript, React e Redux;</p>
  <p align="left">📷 Ainda estou no início dessa transição maluca de carreira, porém, com o avançar da carruagem eu compartilharei minhas experiências e tecnologias das quais estarei me aprofundando. Então já me segue no <a href="https://www.instagram.com/ohguilher/">Instagram</a> e no <a href="https://www.linkedin.com/in/ohguilher/">LinkedIn</a> para me acompanhar nessa jornada!</p>
