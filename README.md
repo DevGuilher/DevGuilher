@@ -44,16 +44,17 @@ Desde pequeno, a tecnologia sempre me fascinou — e os jogos digitais foram min
 ### 📜 Sobre mim:
 
 <div display="inline-block">
- <p align="left">💼 Trabalho na <a href="https://www.coamo.com.br">Coamo Agroindustrial Cooperativa</a> com Refino de Óleos e Produção de Gorduras;</p>
- <p align="left">💻 Estou concluindo minha graduação em Gestão de Tecnologia da Informação e, em seguida, pretendo cursar Web Design para me aprofundar ainda mais no universo do Front-end — sem deixar de reservar um grande espaço para o desenvolvimento Back-end;</p>
- <p align="left">📚 Atualmente, estou me dedicando ao desenvolvimento de projetos pessoais com HTML, CSS e JavaScript, enquanto me preparo para expandir meus conhecimentos em TypeScript, React e Redux. Também venho estudando Figma para criar layouts e landing pages, buscando aprimorar meu processo de desenvolvimento Front-end com foco em usabilidade e design eficiente.;</p>
- <p align="left">📷 Ainda estou no início dessa transição maluca de carreira, porém, com o avançar da carruagem eu compartilharei minhas experiências e tecnologias das quais estarei me aprofundando. Então já me segue no <a href="https://www.instagram.com/ohguilher/">Instagram</a> e no <a href="https://www.linkedin.com/in/ohguilher/">LinkedIn</a> para me acompanhar nessa jornada!</p>
- <p align="left">🎮 E falando sobre meus hobbies, sou um bom amante de jogos. Sempre estou me enfiando onde posso desfrutar de um belo e imersivo Roleplay, ou RPG de Mesa com amigos. Procuro aproveitar meu tempo livre para curtir alguma música, livro ou anime que me chame a atenção e desperte minha criatividade.</p>
+ <p align="left"> - Atualmente trabalho na <a href="https://www.coamo.com.br">Coamo Agroindustrial Cooperativa</a>, atuando no Refino de Óleos e Produção de Gorduras;</p>
+ <p align="left"> - Estou concluindo minha graduação em Gestão de Tecnologia da Informação e, na sequência, pretendo cursar Web Design para me aprofundar ainda mais no universo do Front-end — sem deixar de lado meu interesse crescente pelo desenvolvimento Back-end;</p>
+ <p align="left"> - Tenho me dedicado a projetos pessoais utilizando HTML, CSS e JavaScript, enquanto me preparo para expandir meus conhecimentos em TypeScript, React e Redux. Paralelamente, estou aprendendo a utilizar o Figma para criar layouts e landing pages, buscando aprimorar tanto a parte visual quanto a experiência do usuário nos meus projetos;</p>
+ <p align="left"> - Ainda estou no início dessa transição de carreira — uma jornada intensa e empolgante — e pretendo compartilhar por aqui as minhas experiências, aprendizados e tecnologias nas quais estou me especializando. </p>
+<p aling="left"> Se quiser acompanhar essa trajetória de perto, me siga no <a href="https://www.instagram.com/ohguilher/">Instagram</a> e no <a href="https://www.linkedin.com/in/ohguilher/">LinkedIn</a>!
+ <p align="left"> - E falando em hobbies, sou apaixonado por jogos, especialmente Roleplays imersivos e RPGs de mesa com amigos. Aproveito meu tempo livre para curtir uma boa música, explorar livros e mergulhar em animes que estimulam minha criatividade e imaginação.</p>
 </div>
 </br>
 </br>
 
-☕ Você pode falar comigo pelo [Instagram](https://www.instagram.com/ohguilher/), e conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
+☕ Fique à vontade para falar comigo pelo <a href="https://www.instagram.com/ohguilher/">Instagram</a> e explorar meus projetos publicados aqui nos repositórios!
 
 </br>
 
