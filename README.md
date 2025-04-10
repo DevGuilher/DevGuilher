@@ -52,11 +52,6 @@ Desde pequeno, a tecnologia sempre me fascinou — e os jogos digitais foram min
  <p align="left"> E falando em hobbies, sou apaixonado por jogos, especialmente Roleplays imersivos e RPGs de mesa com amigos. Aproveito meu tempo livre para curtir uma boa música, explorar livros e mergulhar em animes que estimulam minha criatividade e imaginação.</p>
 </div>
 </br>
-</br>
-
-☕ Fique à vontade para falar comigo pelo <a href="https://www.instagram.com/ohguilher/">Instagram</a> e explorar meus projetos publicados aqui nos repositórios!
-
-</br>
 
 <a href="https://www.instagram.com/ohguilher/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ohguilher/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
