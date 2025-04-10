@@ -53,9 +53,7 @@ Desde pequeno, a tecnologia sempre me fascinou — e os jogos digitais foram min
 </div>
 </br>
 </br>
-
 ☕ Fique à vontade para falar comigo pelo <a href="https://www.instagram.com/ohguilher/">Instagram</a> e explorar meus projetos publicados aqui nos repositórios!
-
 </br>
 
 <a href="https://www.instagram.com/ohguilher/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
