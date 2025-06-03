@@ -33,7 +33,7 @@ Me chamo Guilherme Oliveira, tenho 21 anos e sou natural do Paraná. Atualmente,
    <img
     align="left"
     alt="GitHub Stats"
-    height="180"
+    height="150"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuilher&layout=compact&custom_title=Tecnologias&langs_count=6&theme=tokyonight"/>
    
 </p>
