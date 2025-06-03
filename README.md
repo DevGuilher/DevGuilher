@@ -19,7 +19,6 @@ Me chamo Guilherme Oliveira, tenho 21 anos e sou natural do Paraná. Atualmente,
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title = "FIGMA"/></code>
           
 <br/>
-<br/>
 
 ### 📊 Estatísticas:
 
@@ -34,7 +33,7 @@ Me chamo Guilherme Oliveira, tenho 21 anos e sou natural do Paraná. Atualmente,
    <img
     align="left"
     alt="GitHub Stats"
-    height="200"
+    height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuilher&layout=compact&custom_title=Tecnologias&langs_count=6&theme=tokyonight"/>
    
 </p>
