@@ -17,8 +17,6 @@ Me chamo Guilherme Oliveira, tenho 21 anos e sou natural do Paraná. Atualmente 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title = "FIGMA"/></code>
-          
-<br>
 
 ### 📊 Estatísticas:
 
