@@ -1,4 +1,4 @@
-## Guilherme Oliveira
+## 👨🏻‍💻 Guilherme Oliveira
 
 **`DESENVOLVEDOR FRONT-END`**
 
