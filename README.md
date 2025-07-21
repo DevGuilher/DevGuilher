@@ -4,7 +4,7 @@
 
 Me chamo Guilherme Oliveira, tenho 21 anos e sou natural do Paraná. Atualmente, curso Gestão da Tecnologia da Informação na Unicesumar e utilizo a Udemy para adquirir novos conhecimentos em linguagens e tecnologias. Desde pequeno, a tecnologia sempre me fascinou — os jogos digitais foram minha primeira paixão nesse universo. Hoje, estou mergulhado de vez na programação, usando minha criatividade (e uma boa dose de imaginação) para transformar ideias malucas em projetos reais. Estou sempre em busca de aprender mais, criar coisas novas e me divertir no processo.
 
-<a href="https://www.instagram.com/ohguilher/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/ohguilherdev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ohguilher/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "ohguilherdev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
